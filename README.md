@@ -2,6 +2,10 @@
 
 all schematics data of Dual Universe
 
+# Guilded Server (better than Discord)
+
+You can join me on Guilded for help or suggestions or requests by following that link : https://guilded.jericho1060.com
+
 ## Files
 
 - `recipes_ig.json` is a json list of the schematics data extracted from the game
@@ -12,3 +16,7 @@ all schematics data of Dual Universe
 ## Status
 
 19 schematics ID missing to complete everything
+
+## Support or donation
+
+if you like it, [<img src="https://github.com/Jericho1060/DU-Industry-HUD/blob/main/ressources/images/ko-fi.png?raw=true" width="150">](https://ko-fi.com/jericho1060)
