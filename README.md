@@ -1,6 +1,6 @@
 # NOT MAINTAINED ANYMORE
 
-## This repo is not anymore maintained, un updated list of data can be found at https://du-lua.dev/#/items
+## This repo is not anymore maintained, an updated list of data can be found at https://du-lua.dev/#/items
 
 # du-schematics
 
